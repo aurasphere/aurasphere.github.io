@@ -9,8 +9,8 @@ username: Donato Rimenti
 user_description: Work in progress
 user_title: Software Architect / Full Stack Developer
 email: donatohan.rimenti@gmail.com
-# twitter_username: lorem_ipsum
 github_username:  aurasphere
-# gplus_username:  lorem_ipsum
+github_url: https://github.com/aurasphere
+linkedin_url: https://www.linkedin.com/in/donato-rimenti-764876132/
 
 exclude: ['package.json', 'src' , 'node_modules']
