@@ -9,9 +9,10 @@ username: Donato Rimenti
 user_description: Work in progress
 user_title: Software Architect / Full Stack Developer
 email: donatohan.rimenti@gmail.com
-github_username:  aurasphere
 github_url: https://github.com/aurasphere
 linkedin_url: https://www.linkedin.com/in/donato-rimenti-764876132/
 stackoverflow_url: https://stackoverflow.com/users/4921205/aurasphere
+baeldung_url: https://www.baeldung.com/author/donato-rimenti/
+google_play_store_url: https://play.google.com/store/apps/dev?id=5166715628155281634
 
 exclude: ['package.json', 'src' , 'node_modules']
