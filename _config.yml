@@ -1,0 +1,16 @@
+# Site settings
+title: Donato Rimenti
+description: Donato Rimenti Website
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aurasphere.co" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Donato Rimenti
+user_description: Work in progress
+user_title: Software Architect / Full Stack Developer
+email: donatohan.rimenti@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  aurasphere
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
