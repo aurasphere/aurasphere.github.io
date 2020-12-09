@@ -1,4 +1,4 @@
-# Site settings
+jeky# Site settings
 title: Donato Rimenti
 description: Donato Rimenti Website
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,5 +12,6 @@ email: donatohan.rimenti@gmail.com
 github_username:  aurasphere
 github_url: https://github.com/aurasphere
 linkedin_url: https://www.linkedin.com/in/donato-rimenti-764876132/
+stackoverflow_url: https://stackoverflow.com/users/4921205/aurasphere
 
 exclude: ['package.json', 'src' , 'node_modules']
