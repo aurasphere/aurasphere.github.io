@@ -15,6 +15,22 @@ locale: en_US
 image: /assets/me.png
 google_site_verification: zp741_c_tZQ0Xf5IFmGu5zeKfQJAPwapa2OPVIoS1Bc
 
+# SEO related settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/me.png
+seo:
+  name: Donato Rimenti
+  type: Person
+  links:
+    - https://github.com/aurasphere
+    - https://www.linkedin.com/in/donato-rimenti-764876132/
+    - https://stackoverflow.com/users/4921205/aurasphere
+    - https://www.baeldung.com/author/donato-rimenti/
+    - https://play.google.com/store/apps/dev?id=5166715628155281634
+
 # User settings
 username: Donato Rimenti
 user_description: |
