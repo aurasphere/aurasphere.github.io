@@ -1,8 +1,19 @@
 # Site settings
 title: Donato Rimenti
+tagline: Software Architect / Full Stack Developer
 description: Donato Rimenti Website
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aurasphere.co" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+logo: /assets/me.png
+social:
+  name: Donato Rimenti
+  links:
+    - https://www.linkedin.com/in/donato-rimenti-764876132/
+    - https://github.com/aurasphere
+    - https://stackoverflow.com/users/4921205/aurasphere
+locale: en_US
+image: /assets/me.png
+google_site_verification: zp741_c_tZQ0Xf5IFmGu5zeKfQJAPwapa2OPVIoS1Bc
 
 # User settings
 username: Donato Rimenti
