@@ -14,5 +14,6 @@ linkedin_url: https://www.linkedin.com/in/donato-rimenti-764876132/
 stackoverflow_url: https://stackoverflow.com/users/4921205/aurasphere
 baeldung_url: https://www.baeldung.com/author/donato-rimenti/
 google_play_store_url: https://play.google.com/store/apps/dev?id=5166715628155281634
+maven_url: https://search.maven.org/search?q=g:co.aurasphere.*
 
 exclude: ['package.json', 'src' , 'node_modules']
