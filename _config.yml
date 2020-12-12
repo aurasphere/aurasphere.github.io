@@ -19,3 +19,6 @@ google_play_store_url: https://play.google.com/store/apps/dev?id=516671562815528
 maven_url: https://search.maven.org/search?q=g:co.aurasphere.*
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+plugins:
+  - jekyll-seo-tag
