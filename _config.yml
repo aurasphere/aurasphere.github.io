@@ -23,7 +23,7 @@ defaults:
       image: /assets/me.png
       seo:
         name: Donato Rimenti
-        type: Person
+        type: Article
         links:
           - https://github.com/aurasphere
           - https://www.linkedin.com/in/donato-rimenti-764876132/
